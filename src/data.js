@@ -1,6 +1,6 @@
 export const profile = {
   name: 'Basil Thottappali', email: 'basilribumon@gmail.com', location: 'Manjeri, Malappuram, Kerala, India',
-  linkedin: 'https://linkedin.com/in/basil-t', whatsapp: '919847328745', github: '', resume: '', photo: '/images/basil.png'
+  linkedin: 'https://linkedin.com/in/basil-t', whatsapp: '919847328745', github: 'https://github.com/basilribumon', resume: '', photo: '/images/basil.png'
 };
 
 export const navigation = [
